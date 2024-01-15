@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carol.leone@hotmail.com
+	name = Carolina Leone
